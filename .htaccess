@@ -1,0 +1,6 @@
+Options -Indexes
+ErrorDocument 400 /Cs-young-master/error/page-error-400.php
+ErrorDocument 403 /Cs-young-master/error/page-error-403.php
+ErrorDocument 404 /Cs-young-master/error/page-error-404.php
+ErrorDocument 500 /Cs-young-master/error/page-error-500.php
+ErrorDocument 503 /Cs-young-master/error/page-error-503.php
